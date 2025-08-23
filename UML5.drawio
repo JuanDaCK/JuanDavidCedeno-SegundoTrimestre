@@ -1,0 +1,60 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
+  <diagram name="Página-1" id="bOs5qKKKAnK9Dgo_dBCw">
+    <mxGraphModel dx="1025" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h7Tu5LZE1Fae2GjMSvu1-13" value="Inicio" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h7Tu5LZE1Fae2GjMSvu1-14" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="h7Tu5LZE1Fae2GjMSvu1-13" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h7Tu5LZE1Fae2GjMSvu1-15" value="Seleccionar materias" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h7Tu5LZE1Fae2GjMSvu1-16" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="h7Tu5LZE1Fae2GjMSvu1-15" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="290" as="targetPoint" />
+            <mxPoint x="380" y="290" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h7Tu5LZE1Fae2GjMSvu1-17" value="Validar cupos" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h7Tu5LZE1Fae2GjMSvu1-20" value="Generar recibo de pago" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h7Tu5LZE1Fae2GjMSvu1-21" value="Confirmar matrícula" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="430" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h7Tu5LZE1Fae2GjMSvu1-24" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="360" as="targetPoint" />
+            <mxPoint x="379.5" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h7Tu5LZE1Fae2GjMSvu1-26" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="430" as="targetPoint" />
+            <mxPoint x="379.5" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h7Tu5LZE1Fae2GjMSvu1-27" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Proceso de matrículas universitarias&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175" y="70" width="410" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h7Tu5LZE1Fae2GjMSvu1-28" value="Fin" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="500" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h7Tu5LZE1Fae2GjMSvu1-30" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="500" as="targetPoint" />
+            <mxPoint x="379.5" y="460" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
